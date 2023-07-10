@@ -1,0 +1,7 @@
+.fundoescuro{
+    background-color: black;
+}
+
+select > option {
+    color: black;
+}
